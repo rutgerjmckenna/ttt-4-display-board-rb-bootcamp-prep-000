@@ -11,3 +11,7 @@ board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
 puts "Turn 1"
 board = [" "," "," "," ","X"," "," "," "," "]
+
+display_board(board)
+puts "Turn 2"
+board = [" "," "," "," "," "," "," "," "," "]
