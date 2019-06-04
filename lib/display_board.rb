@@ -7,6 +7,7 @@ def display_board(the_board)
 end
 
 board = [" "," "," "," "," "," "," "," "," "]
+
 display_board(board)
 puts "Turn 1"
-
+board = [" "," "," "," "," "," "," "," "," "]
