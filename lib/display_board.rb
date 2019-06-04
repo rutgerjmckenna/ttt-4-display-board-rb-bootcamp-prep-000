@@ -18,5 +18,4 @@ board = ["O"," "," "," "," "," "," "," "," "]
 
 display_board(board)
 puts "Turn 3"
-board = ["O"," "," "," "," "," "," "," "," "]
-puts "Turn 3"
+board = ["O"," "," "," ","X"," "," "," "," "]
